@@ -1,0 +1,3 @@
+This is an full stack project web application using Django and React. The aim of this web app is to allow people from around the globe to connect together using Spotify and listen to music together at the same time.
+The web app incorporates diffirenet functionalities such as voting on which song to play for the group and voting to skip a current song.
+This project integrates the third party Spotify API which makes it a little more challenging.
